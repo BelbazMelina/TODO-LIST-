@@ -70,8 +70,5 @@ Avant d'exécuter l'application, assurez-vous d'avoir les éléments suivants :
     - Si vous entrez une tâche à supprimer avec un numéro incorrect, une erreur sera signalée.
     - Le programme gère également les exceptions liées aux entrées invalides (par exemple, entrer une chaîne de caractères lorsqu'un nombre est attendu).
 
-## Exemple d'exécution
-
-Voici à quoi pourrait ressembler l'exécution de votre programme :
 
 
